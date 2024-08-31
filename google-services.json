@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861680456752",
+    "project_id": "canopiproject",
+    "storage_bucket": "canopiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861680456752:android:925645c4ea520aed0f89f5",
+        "android_client_info": {
+          "package_name": "com.canopi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQMWSuIIiJiXLaBoQzf9V8sJhSqtq9Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
